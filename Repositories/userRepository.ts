@@ -1,7 +1,7 @@
-import {fs} from "fs-extra";
-import {User} from"./userModel";
+import fs from "fs-extra";
+import {User} from"../Models/userModel";
 
-const filePath = "./Data/users.json";
+const filePath = "../Data/users.json";
 
 async function getUsers(): Promise<User[] | undefined> {
   try {

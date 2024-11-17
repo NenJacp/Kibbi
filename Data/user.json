@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "Juan Pérez",
+    "email": "juan.perez@example.com",
+    "password": "password123",
+    "phone": 5551234567,
+    "type": "admin",
+    "registration": "2024-11-17T10:00:00Z",
+    "age": 30,
+    "city": "Ciudad de México"
+  },
+  {
+    "id": "2",
+    "name": "María López",
+    "email": "maria.lopez@example.com",
+    "password": "securePass!45",
+    "phone": 5559876543,
+    "type": "user",
+    "registration": "2024-11-16T08:45:00Z",
+    "age": 25,
+    "city": "Guadalajara"
+  },
+  {
+    "id": "3",
+    "name": "Carlos García",
+    "email": "carlos.garcia@example.com",
+    "password": "myPassword789",
+    "phone": 5557654321,
+    "type": "moderator",
+    "registration": "2024-11-15T15:30:00Z",
+    "age": 28,
+    "city": "Monterrey"
+  },
+  {
+    "id": "4",
+    "name": "Ana Torres",
+    "email": "ana.torres@example.com",
+    "password": "anaTorres#2023",
+    "phone": 5555678901,
+    "type": "user",
+    "registration": "2024-11-14T12:00:00Z",
+    "age": 22,
+    "city": "Tijuana"
+  },
+  {
+    "id": "5",
+    "name": "Luis Fernández",
+    "email": "luis.fernandez@example.com",
+    "password": "passLuis@001",
+    "phone": 5556781234,
+    "type": "admin",
+    "registration": "2024-11-13T09:15:00Z",
+    "age": 35,
+    "city": "Puebla"
+  }
+]
