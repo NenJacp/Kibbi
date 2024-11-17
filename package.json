@@ -1,0 +1,27 @@
+{
+  "name": "kibbi",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "node app.js",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "Restaurants",
+    "Food",
+    "Orders"
+  ],
+  "author": "Abraham Pech",
+  "license": "ISC",
+  "description": "Creacion de mi API de Kibbi",
+  "dependencies": {
+    "express": "^4.21.1",
+    "express-validator": "^7.2.0",
+    "fs-extra": "^11.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
